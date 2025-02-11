@@ -31,7 +31,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefbnncr&layout=compact&theme=default)
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
 
 ### 📍 Location: [Morocco]  
