@@ -26,9 +26,6 @@
 - 🔍 Always learning and staying updated with the latest web technologies.
 - 🌱 Currently working on improving my skills in **Backend Development** and **Cloud Computing**.
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefbnncr&show_icons=true&theme=default)
-
 ### 🔗 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
 
